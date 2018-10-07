@@ -50,6 +50,13 @@ function draw() {
 fill(255,255,255);
 
     };
+
+
+  //  if (mouseX < random()*400){
+    if (mouseX<250 && mouseX>200) {
+fill(255,128,128);
+
+    };
       ellipse(x, y, 25);
     }
   }
