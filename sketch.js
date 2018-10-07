@@ -1,8 +1,4 @@
 //draw a grid of red dots
-var colorList = ['#ff8080',
-                 '#ff4d4d',
-                 '#990000',
-                 '#ffe6e6'];
 
 function setup() {
   createCanvas(425, 425);
